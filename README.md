@@ -1,7 +1,7 @@
-# 🌊 | Simulador de Dado
-Simula um dado real ⭐️
+# 🌊 | Dice Simulator
+Simulates real dice ⭐️
 
-・Projetado em VS Code
+・Designed in VS Code
 
-# 🐦 | Dúvidas ou contato?
-- Fale pelo discord com Atsushi❞#5239
+# 🐦 | Questions or contact?
+- Speak for discord with Atsushi❞#5239
