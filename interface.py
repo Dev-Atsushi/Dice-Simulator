@@ -3,6 +3,6 @@
 import random
 
 while True:
-    numero = random.randint(1,6)
-    print("Rolando dado...E seu número é", numero)
-    input("Clique qualquer tecla para rolar novamente.")
+    number = random.randint(1,6)
+    print("Rolling dice... And your number is", number)
+    input("Click any key to scroll again.")
